@@ -23,4 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #data files
-/src/data
+/public/products.json
+/public/categories.json
+/public/users.json
